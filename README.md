@@ -2,7 +2,7 @@ Try our app on: https://pennsgram.herokuapp.com
 
 GitHub Repo: https://github.com/cis557/project---design-hw1-team_offersoverflow
 
-Grading Setup (updated):
+Setup mannual (updated):
 
       Step 1 -- install packages: 
                                       1. Open terminal and clone our GitHub repo:
@@ -27,10 +27,10 @@ Grading Setup (updated):
                                       3. There are following **notice points** for each features.
 
 # Progress:
-# HW5: Implementation & Testing
-PDF instruction: https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW5.pdf
+# Stage 5: Implementation & Testing
+tasks: https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW5.pdf
 
-HW5 Features:
+Stage 5 required Features:
 
                                       1. Photo liks & unliking
                                       2. Editing/Deleting Posts & Comments
@@ -43,8 +43,8 @@ HW5 Features:
                                       9. Security: account lockout policy
                                       10. Security: invalidate web tokens after log out
 
-# HW4: Implementation (Backend) & API Testing
-PDF https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW4.pdf
+# Stage 4: Implementation (Backend) & API Testing
+task PDF https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW4.pdf
 
 MongoDB username: Please check out the credentials form
 
@@ -52,9 +52,9 @@ MongoDB password: Please check out the credentials form
 
 Check out our database to see the registered accounts, and use one of them to login in and play round with the app.
 
-***HW4 Demo: https://drive.google.com/file/d/1CQ-LHSY6kXDMpvbopuVMpbhp5d1vim9X/view?usp=share_link***
+***Stage 4 Demo: https://drive.google.com/file/d/1CQ-LHSY6kXDMpvbopuVMpbhp5d1vim9X/view?usp=share_link***
 
-HW4 Features:
+Stage 4 Features:
 
                                       1. User registration
                                       2. Login/Auth
@@ -68,18 +68,18 @@ HW4 Features:
                                       10. Edit/delete comments
                                       11. Edit/delete posts
 
-HW4 Backend Testing Result:
+Stage 4 Backend Testing Result:
 
 <img width=70% height=70% src="https://user-images.githubusercontent.com/43593783/205434917-8312088e-0af8-44af-9954-0c61401eb9da.png">
 
-# HW3: Implementation (View) & Unit Testing (Completed)
-PDF instruction: https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW3.pdf
+# Stage 3: Implementation (View) & Unit Testing (Completed)
+task: https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW3.pdf
 
-***HW3 Demo: https://drive.google.com/file/d/1CK2IBO49mhrhXFM6HybLWf3il4PG6swY/view?usp=share_link***
+***Stage 3 Demo: https://drive.google.com/file/d/1CK2IBO49mhrhXFM6HybLWf3il4PG6swY/view?usp=share_link***
 
 <img src="images/TestCoverage.png" width=70% height=70%>
 
-HW3 Features:
+Stage 3 Features:
 
                                       1. Like & unlike posts on both user pages and feed page
                                           - check the changes on the like list for any action performed
@@ -92,10 +92,10 @@ HW3 Features:
                                       5. Mention another user in comments
                                           - click the @ to direct to the user page.
 
-# HW2: Implementation (View) & UI Testing (Completed)
-PDF instruction: https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW2.pdf
+# Stage 2: Implementation (View) & UI Testing (Completed)
+tasks: https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW2.pdf
 
-HW2 Features:
+Stage 2 Features:
 
                                       1. User Reigstration
                                           - use an online media link for avatar
@@ -121,8 +121,8 @@ HW2 Features:
 
 **Notice:** The navbar on the top is only for grading and development purposes, and it will be removed in the final version.
 
-# HW1: Architecture Design (Completed)
-PDF instruction: https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW1.pdf
+# Stage 1: Architecture Design: Restful API & Figma interface Design (Completed)
+tasks: https://github.com/cis557/project---design-hw1-team_offersoverflow/blob/main/project_specifications/Project%20-%20HW1.pdf
 
 Photo&amp;Video-sharing Social Network APP -  UI & Frontend; 
 
