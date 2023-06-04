@@ -1,6 +1,9 @@
 Try our app on: https://pennsgram.herokuapp.com
+
 Demo Username: ayesha
+
 Password: ayesha123
+
 
 GitHub Repo: https://github.com/cis557/project---design-hw1-team_offersoverflow
 
